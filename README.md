@@ -20,7 +20,7 @@
   - GitHub
   - Linux CLI
 
-- Learn more about me and my Projects **[here]('https://gagangulyani.me')**
+- Learn more about me and my Projects **<a href='https://gagangulyani.me'>here</a>**
 
 - Let's Connect!
   - **<a href='https://twitter.com/gagangulyani'>Twitter (currently active)</a>**
