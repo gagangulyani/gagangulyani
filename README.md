@@ -1,4 +1,4 @@
-![Cover Image](images/cover.gif)
+![Cover Image](https://github.com/gagangulyani/gagangulyani/raw/master/images/cover.gif)
 
 # Welcome to my Profile! 😎
 
