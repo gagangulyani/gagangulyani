@@ -4,9 +4,9 @@
 
 ## About Me 🔥:
 
-- I'm a 21 y.o. **BCA Final Year student** from Uttar Pradesh, **India 🇮🇳**.
+- I'm a 22-years-old **BCA Graduand** from Uttar Pradesh, **India 🇮🇳**.
 
-- I have been coding in **Python** for the last **5 years 💻** and made **Web Apps (using Flask)**, **Web Scrapers 🕸️** and **Automation scripts ✨** for fun and College.
+- I have been coding in **Python** for personal use for around **5 years 💻** and made **Web Apps (using Flask)**, **Web Scrapers 🕸️** and **Automation scripts ✨** for fun and College.
 
 - I'm currently learning **Web Development, Data Structures, Algorithms**, and **Machine Learning**.
 
