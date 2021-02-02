@@ -4,7 +4,7 @@
 
 ## About Me 🔥:
 
-- I'm a 22-years-old **BCA Graduand** from Uttar Pradesh, **India 🇮🇳**.
+- I'm a **BCA Graduate** from Uttar Pradesh, **India 🇮🇳**.
 
 - I have been coding in **Python** for personal use for around **5 years 💻** and made **Web Apps (using Flask)**, **Web Scrapers 🕸️** and **Automation scripts ✨** for fun and College.
 
