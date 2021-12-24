@@ -2,26 +2,27 @@
 
 # Welcome to my Profile! 😎
 
-## About Me 🔥:
+## About Me:
 
-- I'm a **BCA Graduate** from Uttar Pradesh, **India 🇮🇳**.
+- I'm an **MCA Student (BVICAM, New Delhi)** from Uttar Pradesh, **India 🇮🇳**.
 
-- I have been coding in **Python** for personal use for around **5 years 💻** and made **Web Apps (using Flask)**, **Web Scrapers 🕸️** and **Automation scripts ✨** for fun and College.
+- I have created numerous *Web Apps, Web Scrapers and Automation scripts with Python* for fun and learning since 2017.
 
-- I'm currently learning **Web Development, Data Structures, Algorithms**, and **Machine Learning**.
+### Technologies ⚡ I have worked with:
 
-- Technologies ⚡ I have worked with:
-
-  - Python 🐍
+  - Python
   - Flask
+  - OpenCV
+  - RegEx
   - Web Technologies (HTML, CSS, JavaScript, Bootstrap 4)
   - MongoDB
-  - git 💻
+  - SQLite3
+  - git
   - GitHub
-  - Linux CLI
+  - Bash
 
-- Learn more about me and my Projects **<a href='https://gagangulyani.github.io'>here</a>**
+### Where to find me:
 
-- Let's Connect!
-  - **<a href='https://twitter.com/gagangulyani'>Twitter (currently active)</a>**
-  - **<a href='mailto:gagangulyanig@gmail.com'>Email Me</a>**
+  - **[Twitter](https://twitter.com/GaganGulyani)**
+  - **[Instagram](https://www.instagram.com/gagan_gulyani/)**
+  - **[Email Me](mailto:gagangulyanig@gmail.com)**
