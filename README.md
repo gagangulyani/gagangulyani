@@ -4,25 +4,25 @@
 
 ## About Me:
 
-- I'm an **MCA Student (BVICAM, New Delhi)** from Uttar Pradesh, **India 🇮🇳**.
-
-- I have created numerous *Web Apps, Web Scrapers and Automation scripts with Python* for fun and learning since 2017.
-
-### Technologies ⚡ I have worked with:
-
+I am a software engineer and a music producer. I have experience working with the following technologies:
   - Python
   - Flask
-  - OpenCV
+  - JavaScript
+  - NodeJS
+  - jQuery
   - RegEx
-  - Web Technologies (HTML, CSS, JavaScript, Bootstrap 4)
+  - Google APIs
   - MongoDB
   - SQLite3
+  - MySQL
+  - Redis
   - git
   - GitHub
   - Bash
+  - OpenCV
 
 ### Where to find me:
 
   - **[Twitter](https://twitter.com/GaganGulyani)**
-  - **[Instagram](https://www.instagram.com/gagan_gulyani/)**
+  - **[Instagram (for music)](https://www.instagram.com/gagan_gulyani/)**
   - **[Email Me](mailto:gagangulyanig@gmail.com)**
